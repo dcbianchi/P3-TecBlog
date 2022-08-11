@@ -1,0 +1,9 @@
+
+
+/*links não visitados*/
+a:link {
+    color: #b9c941;
+    text-decoration: none;
+}
+
+/*links visitados*/
