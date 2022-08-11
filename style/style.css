@@ -1,9 +1,20 @@
 
-
+a{
+    padding: 5px 10px;
+}
 /*links não visitados*/
-a:link {
+a:link, a:visited {
     color: #b9c941;
     text-decoration: none;
 }
 
-/*links visitados*/
+/*quando passa o mose*/
+a:hover{
+    color: #fff;
+    background: #6d790f;
+}
+
+/*Ao clicar, ao ativar o link*/
+a:active{
+    color: #e4f371;
+}
