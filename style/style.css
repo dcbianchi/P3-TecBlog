@@ -33,8 +33,21 @@ h1 {
     margin: 15px;
 }
 
+#footer {
+    padding: 5px;
+    text-align: center;
+    background: #CCC;
+}
+
+.FooterIcon{
+    margin: 5px;
+    text-decoration: none;
+}
+
 /* Formatação dos links no Menu */
 .LinkDoMenu{
+    padding: 10px;
+    margin: 10px;
     text-decoration: none;
     color: white;
 }
