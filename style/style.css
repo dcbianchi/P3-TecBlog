@@ -44,6 +44,10 @@ h1 {
     text-decoration: none;
 }
 
+#posts {
+    text-align: center;
+}
+
 /* Formatação dos links no Menu */
 .LinkDoMenu{
     padding: 10px;
