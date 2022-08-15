@@ -19,11 +19,6 @@ body {
     margin: 15px;
 }
 
-h1 {
-	color: #4e4e4e;
-	font-size: 2.5em;
-}
-
 #branco {
     color: white;
 }
@@ -33,7 +28,34 @@ h1 {
     margin: 15px;
 }
 
+#principal{
+    width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#posts {
+	width: 660px;
+	float: left;
+}
+
+.post{
+    padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+
+#lateral{
+    width: 240px;
+	float: right;
+}
+
+.DataPost{
+
+}
+
 #footer {
+    clear: both;
     padding: 5px;
     text-align: center;
     background: #CCC;
@@ -42,10 +64,6 @@ h1 {
 .FooterIcon{
     margin: 5px;
     text-decoration: none;
-}
-
-#posts {
-    text-align: center;
 }
 
 /* Formatação dos links no Menu */
@@ -61,4 +79,17 @@ h1 {
     color: #f7b600;
 }
 
+/*formatação getal*/
 
+img{
+    width: 620px;
+}
+
+h1 {
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+h2 {
+    color: #f7b600;
+}
