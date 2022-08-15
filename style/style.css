@@ -70,7 +70,8 @@ body {
 }
 
 .FooterIcon{
-    margin: 5px;
+    margin: 10px;
+    text-decoration: none;
 }
 
 .DataPost{
@@ -107,14 +108,14 @@ a:hover {
 	text-decoration: underline;
 }
 
-#footer a:link, a:visited {
+#dcbianchi {
     color: purple;
     text-decoration: underline;
 }
 
 /*formatação getal*/
 
-img{
+.PostedImg{
     width: 620px;
 }
 
